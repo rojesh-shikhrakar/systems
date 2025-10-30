@@ -9,6 +9,7 @@ mathjax-support = true
 fold.enable = true
 fold.level = 0
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
+additional-css = ["./mdbook-admonish.css"]
 
 [output.html.playground]
 editable = true
@@ -24,3 +25,7 @@ heading-split-level = 2
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.1.0" # do not edit: managed by `mdbook-admonish install`
