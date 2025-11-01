@@ -7,8 +7,8 @@ title = "Crafting Software Systems"
 [output.html]
 mathjax-support = true
 fold.enable = true
-fold.level = 0
-additional-js = ["mermaid.min.js", "mermaid-init.js"]
+fold.level = 2
+additional-js = ["mermaid.min.js", "mermaid-init.js", "utils.js"]
 additional-css = ["./mdbook-admonish.css"]
 
 [output.html.playground]
