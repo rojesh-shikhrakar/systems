@@ -19,3 +19,10 @@ D. Bug Tracking and Quality Metrics
 - Use of tracking systems (JIRA, Bugzilla)
 - Continuous monitoring of quality and performance indicators
 
+## Quality Assurance
+
+Verification is the process of checking that the product satisfies the conditions before work starts, while validation is the process of checking that the product meets the specified requirements at the end of the development phase.
+
+QA is a procedure that focuses on providing assurance that quality requested will be achieved, while QC is a procedure that focuses on fulfilling the quality requested.
+QA aims to prevent defects, while QC aims to identify and fix defects.
+QA covers virtually all of the quality system, while QC is a subset of the QA activities.

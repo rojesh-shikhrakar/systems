@@ -14,3 +14,5 @@ C. Technical Documentation and Design Reviews
 
 - Creating design documents, architecture diagrams, and style guides
 - Conducting peer reviews and validation sessions
+
+[Architectural Decision Records](https://adr.github.io/ad-practices/)
