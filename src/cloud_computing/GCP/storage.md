@@ -6,6 +6,19 @@ File storage, block storage, and object storage are three distinct methods of st
 
 {{#include ../cloud_services.md:object_storage}}
 
+[Buckets](https://docs.cloud.google.com/storage/docs/buckets) requires
+
+- globally unique name: why unique?
+   - recommend a format like: `<project>-<region>-<environment>-<uniqueid>`
+Example: analytics-asia-prod-001
+- label: Key-value pair to group related buckets together
+- Storage Class
+  
+- data store placement: single region
+
+
+
+
 ## Persistent Disk & Local SSD: Block Storage
 
 {{#include ../cloud_services.md:block_storage}}

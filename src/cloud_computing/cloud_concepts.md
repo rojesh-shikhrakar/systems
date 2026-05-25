@@ -23,7 +23,7 @@ Operate through faults.
 - High availability is not enough
 - If a server goes down, disruption is not okay
 - The system must be able to tolerate the failure
-    - Levels of redundancy and system of components which can route around failures
+  - Levels of redundancy and system of components which can route around failures
 - Implementing FT when you need HA is expensive and is harder to implement
 - Implementing HA when you need FT can be a disaster
 

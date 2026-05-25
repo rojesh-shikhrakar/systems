@@ -69,7 +69,7 @@ DNS is organized in a tree-like hierarchy:
 Common DNS Record Types
 
 | Record Type | Purpose | Example |
-|-------------|---------|---------|
+| ----------- | ------- | ------- |
 | **A (Address)** | Maps a domain to an IPv4 address | `example.com → 192.0.2.1` |
 | **AAAA** | Maps a domain to an IPv6 address | `example.com → 2001:db8::1` |
 | **CNAME (Canonical Name)** | Points a domain to another domain name | `www.example.com → example.com` |
